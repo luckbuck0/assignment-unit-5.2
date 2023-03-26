@@ -1,0 +1,23 @@
+.head {
+    background-image: linear-gradient(rgb(96, 19, 111), rgb(187, 88, 194));
+    color: rgb(114, 187, 250);
+    text-align: center;
+    margin-top: -30px;
+}
+
+.console {
+    background-color: rgba(173, 169, 169, 0.51);
+    margin-top: -20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    opacity: 90%;
+    color: rgb(9, 9, 10);
+    padding: 1em;
+}
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0px;
+}
